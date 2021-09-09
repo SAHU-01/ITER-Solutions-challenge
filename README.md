@@ -61,8 +61,8 @@ The Governments,NGO's,Tech-giants,farmers or agricultural groups
 
 **City:**Rural,sub-urban
 
-### Demographics of users
+### Pain points of users
 
-**Occupation**:Farmers,Government employees,NGO workers
-
-**City:**Rural,sub-urban
+- **Farmers:**Lack of informative resources for cultivation to get desired output,and unaware of market trends.
+- **Government Employees:**Lack of resources to benefit target audiance,unavailibility of prototype to invest funding.
+- **NGO's:** Lack of technological equipments to help them deploy their models for solution.
