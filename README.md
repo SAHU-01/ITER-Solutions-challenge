@@ -60,3 +60,9 @@ The Governments,NGO's,Tech-giants,farmers or agricultural groups
 **Occupation**:Farmers,Government employees,NGO workers
 
 **City:**Rural,sub-urban
+
+### Demographics of users
+
+**Occupation**:Farmers,Government employees,NGO workers
+
+**City:**Rural,sub-urban
