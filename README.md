@@ -50,3 +50,7 @@ The product comprises of the different functional wings aiming at 3 different ta
 - [ ]  To view and analyze regional wise reports and take necessary conditions for improvement
 - **The Market Stake-Holder**
 - [ ]  They can get into contact with the producers directly and send supplies to door steps
+
+
+### Who are the target stakeholders of the solution?
+The Governments,NGO's,Tech-giants,farmers or agricultural groups
