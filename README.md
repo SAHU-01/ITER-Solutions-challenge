@@ -36,3 +36,17 @@ I had participated in a number of Model United Nation Conferences where I was as
 - Except government websites,there are hardly any farmer eduvational platforms that provide the relevant data to farmers,moreover they are not built to transmit the same data in various languages thus failing to provide the target audiance the required data,with "**Millectos**" aiming to provide interactive education with regional language support ,this makes the product stand out to not just NGO's working for this sector but also it opens doors for government funding as their dual targets of achieving SDGs and 2023 mileet year are achieved.
 - Food is a never ending essential resource thus,if any technology giant invests and builts a prototype,or even accepts **Millectos** and improves it,this would bring them huge revenues because this is not an issue related to one country it's an issue related to every nation ,and for the maintanence purposes this would be an ever lasting project that would help numerous indivisals by providing them job oppurtunities as well
 - **Millectos** would change and bring a stir to the food market as well,thus helping achieve a healthier alternative ,increasing revenues for the food manufacturing giants as well.
+
+### Product's features or functionalities
+The product comprises of the different functional wings aiming at 3 different target audiances
+
+- **The farmers**
+- [ ]  Educational resources
+- [ ]  Market trends
+- [ ]  Regional Language news related to farming methods and practice,climatic changes,etc
+- **The government**
+- [ ]  To relesase goverment policies and guidelines,so that it reaches the target audiance
+- [ ]  To upload Educational videos
+- [ ]  To view and analyze regional wise reports and take necessary conditions for improvement
+- **The Market Stake-Holder**
+- [ ]  They can get into contact with the producers directly and send supplies to door steps
