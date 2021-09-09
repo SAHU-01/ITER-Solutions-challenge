@@ -54,3 +54,9 @@ The product comprises of the different functional wings aiming at 3 different ta
 
 ### Who are the target stakeholders of the solution?
 The Governments,NGO's,Tech-giants,farmers or agricultural groups
+
+### Demographics of users
+
+**Occupation**:Farmers,Government employees,NGO workers
+
+**City:**Rural,sub-urban
