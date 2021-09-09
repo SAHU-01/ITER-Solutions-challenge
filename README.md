@@ -59,12 +59,12 @@ The Governments,NGO's,Tech-giants,farmers or agricultural groups
 
 **Occupation**:Farmers,Government employees,NGO workers
 
-**City:**Rural,sub-urban
+**City:** Rural,sub-urban
 
 ### Pain points of users
 
-- **Farmers:**Lack of informative resources for cultivation to get desired output,and unaware of market trends.
-- **Government Employees:**Lack of resources to benefit target audiance,unavailibility of prototype to invest funding.
+- **Farmers:** Lack of informative resources for cultivation to get desired output,and unaware of market trends.
+- **Government Employees:** Lack of resources to benefit target audiance,unavailibility of prototype to invest funding.
 - **NGO's:** Lack of technological equipments to help them deploy their models for solution.
 
 For further details on SDGs and SDG goals kindly refer to the following [webpage](https://sdgs.un.org/goals)
