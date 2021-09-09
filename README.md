@@ -23,3 +23,11 @@ The global millet market is expected to reach 10060 million by the end of 2027,w
 I had participated in a number of Model United Nation Conferences where I was assigned to pass draft resolutions on SDGs 1 and 2 dealing with No poverty and Zero Hunger ,it was then on reaserach that I found the UN General assembly had announced the year 2023 as global millet year seeing millet as one of the only substitues that could bring a huge economic change as well has deal with the all the SDG goals.I continued researching every country's stand and issues to attain this target but suprisingly the common issue arising in almost all countries was lack of a prototype that could educate the farmers and an effcient model that could promise greater productivity by analysing existent ground data.Thus ,I thought of "Millectos" Basicallly focusing on how to educate farmers and providing them relevant data to get desired production,by building a model first ,then moving towards interactive and informative form of education!
 
 ### What is the product purpose?
+- Analysing Existent Data
+- Creating a Functional Model to maximise production and revenue
+- Educating farmers
+- Providing them recent and regional information
+- Adverstising to get target audiance
+- Creating market stratergies guidelines to follow for farmers for increasing their sales
+- Achieving SDG goals
+- Improving the economic crisis
