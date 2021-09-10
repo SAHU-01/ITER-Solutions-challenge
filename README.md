@@ -70,3 +70,4 @@ The Governments,NGO's,Tech-giants,farmers or agricultural groups
 For further details on SDGs and SDG goals kindly refer to the following [webpage](https://sdgs.un.org/goals) .
 
 Find the video demonstartion of this application [here]() .
+Find the blog containing the product details [here]() .
