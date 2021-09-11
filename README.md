@@ -1,6 +1,8 @@
 # ITER-Solutions-Challenge
 Theme: Food resource management and insecurity 
 
+# Millectos
+
 ### What is your Idea?
 While the developed and developing nations are trying to achieve the SDGs established by the United Nations,a concrete prototype is necessary for every government or institution dealing with,or related to Food and Hunger.If technology invades to achieve these goals,that would be the best possible solution.When existent food resources and the building financial loses are rising leading to a price hike,what if alternative hidden resources are used?
 
