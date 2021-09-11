@@ -70,5 +70,6 @@ The Governments,NGO's,Tech-giants,farmers or agricultural groups
 For further details on SDGs and SDG goals kindly refer to the following [webpage](https://sdgs.un.org/goals) .
 
 Find the video demonstartion of this application [here]() .<br/>
-Find the blog containing the product details [here]() .
-Find the website [here] (https://sahu-01.github.io/ITER-Solutions-challenge/) .
+Find the blog containing the product details [here]() .<br/>
+Find the website  [here]() .<br/>
+
